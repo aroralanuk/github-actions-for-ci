@@ -1,1 +1,2 @@
 name: Team ASAP's approval workflow
+on: pull_request_review
